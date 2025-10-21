@@ -48,10 +48,3 @@ keseimbangan_pasar <- function() {
 # memanggil fungsi
 keseimbangan_pasar()
 
-
-
-
-
-
-
-
